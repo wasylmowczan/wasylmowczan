@@ -33,5 +33,4 @@
 
 <img align="left" alt="wasylmowczan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wasylmowczan&show_icons=true&hide_border=true" />
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
