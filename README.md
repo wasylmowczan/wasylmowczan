@@ -14,7 +14,11 @@
 <br />
 ### Languages and Tools:
 
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="jUnit 5" width="26px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
+<img align="left" alt="Selenium" width="26px" src="https://selenium.dev/images/selenium_logo_square_green.png" />
+<img align="left" alt="Cypress" width="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://jenkins.io/sites/default/files/jenkins_logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
