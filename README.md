@@ -1,4 +1,4 @@
-### Hi there, I'm Wasyl - Software QA Engineer and Flutter lover.  [Flutter!](https://flutter.dev/) 👋
+### Hi there, I'm Wasyl - Software QA Engineer and [Flutter](https://flutter.dev/) lover. 👋
 
 ### I'm a Husband, Tester and Sportsmen!
 
