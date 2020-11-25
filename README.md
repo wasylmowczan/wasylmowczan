@@ -11,8 +11,7 @@
 
 [<img align="left" alt="wasylmowczan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/wasyl.mowczan/)
 [<img align="left" alt="wasylmowczan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasyl-mowczan/)
-
-
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -39,7 +38,6 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=wasylmowczan&hide_title=true&hide_border=true&langs_count=5)
 
----
 
 <details>
   <summary> Recent GitHub Activity</summary>
@@ -57,7 +55,7 @@
 <details>
   <summary> GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wasylmowczan&show_icons=true&hide_border=true" />
+  <img align="left" alt="wasylmowczan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wasylmowczan&show_icons=true&hide_border=true" />
 
 </details>
 
