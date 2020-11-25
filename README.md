@@ -1,6 +1,6 @@
 ### Hi there, I'm Wasyl - Software QA Engineer and Flutter lover.  [Flutter!](https://flutter.dev/) 👋
 
-## I'm a Husband, Tester and Sportsmen!
+### I'm a Husband, Tester and Sportsmen!
 
 - 🔭 I started to learn Computer Science in [OSSU](https://github.com/ossu/computer-science) university
 - 🌱 I’m currently learning Java 
