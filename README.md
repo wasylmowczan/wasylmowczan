@@ -2,7 +2,7 @@
 
 - 🔭 I started to learn Computer Science in [OSSU](https://github.com/ossu/computer-science) university
 - 🌱 I’m currently learning Java 
-- 🥅 2021 Goals: Join to Open Source project
+- 🥅 2022 Goals: Join to Open Source project
 - ⚡ Hobby: I learn to play piano and try my strengths in street workout
 
 ### Connect with me:
