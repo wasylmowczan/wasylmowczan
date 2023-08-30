@@ -2,13 +2,12 @@
 
 - 🔭 I started to learn Computer Science in [OSSU](https://github.com/ossu/computer-science) university
 - 🌱 I’m currently learning Java 
-- 🥅 2022 Goals: Join to Open Source project
+- 🥅 2024 Goals: Join to Open Source project
 - ⚡ Hobby: I learn to play piano and try my strengths in street workout
 
 ### Connect with me:
-
-[<img align="left" alt="wasylmowczan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/wasyl.mowczan/)
 [<img align="left" alt="wasylmowczan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasyl-mowczan/)
+[<img align="left" alt="wasylmowczan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/WasylMowczan)
 <br />
 ### Languages and Tools:
 
