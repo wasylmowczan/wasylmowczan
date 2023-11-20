@@ -24,6 +24,6 @@
 
  **GitHub Stats**
 
-<img align="left" alt="wasylmowczan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wasylmowczan&show_icons=true&theme=radical" />
+<img align="left" alt="wasylmowczan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wasylmowczan&show_icons=true&theme=transparent)" />
 
 
