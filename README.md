@@ -4,7 +4,7 @@ Google 🚀, Amazon 🌐, Apple , Meta 💼 and Microsoft ⌨️ Just a few c
 
 * 🌍  I'm based in Krakow, Poland
 * ✉️  You can contact me at [mowczanwasyl@gmail.com](mailto:mowczanwasyl@gmail.com)
-* 🚀  I'm currently working on [My Website](https://wasylmowczan.me) * 🧠  I'm learning Node.js
+* 🚀  I'm currently working on [DevCoursesHub.com](https://devcourseshub.com/) * 🧠  I'm learning Node.js
 
 <a href="https://www.github.com/wasylmowczan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/wasylmowczan?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/WasylMowczan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/WasylMowczan?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 ### Skills  
